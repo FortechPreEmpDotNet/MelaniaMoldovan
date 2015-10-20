@@ -1,0 +1,3 @@
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\AssignmentOperators.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication7\AssignmentOperators\bin\Debug\AssignmentOperators.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\AssignmentOperators\AssignmentOperators\bin\Debug\AssignmentOperators.exe.config

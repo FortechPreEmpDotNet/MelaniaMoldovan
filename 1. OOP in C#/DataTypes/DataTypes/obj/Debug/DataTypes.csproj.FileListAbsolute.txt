@@ -1,0 +1,9 @@
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\DataTypes.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\DataTypes.exe
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\DataTypes.pdb
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\DataTypes.exe
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\DataTypes.pdb
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\DataTypes\bin\Debug\DataTypes.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\DataTypes\obj\Debug\DataTypes.exe
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication2\DataTypes\obj\Debug\DataTypes.pdb

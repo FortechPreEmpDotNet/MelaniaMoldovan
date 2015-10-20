@@ -1,0 +1,7 @@
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\BitwiseOperators.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\BitwiseOperators\obj\Debug\BitwiseOperators.csprojResolveAssemblyReference.cache
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication6\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

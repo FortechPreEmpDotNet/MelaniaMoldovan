@@ -1,0 +1,2 @@
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\OperatorPrecedence.exe.config
+c:\Users\danielc\Documents\Visual Studio 2015\Projects\OperatorPrecedence\OperatorPrecedence\bin\Debug\OperatorPrecedence.exe.config
